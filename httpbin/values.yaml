@@ -1,5 +1,5 @@
 httpbin:
-  replicaCount: 2
+  replicaCount: 5
   ingress:
     enabled: true
     tls: true
