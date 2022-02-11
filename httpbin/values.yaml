@@ -1,0 +1,6 @@
+httpbin:
+  replicaCount: 2
+  ingress:
+    enabled: true
+    tls: true
+    hostname: demoargo.lab.sspcloud.fr

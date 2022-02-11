@@ -1,0 +1,7 @@
+apiVersion: v2
+name: httpbin
+version: 1.0.0
+dependencies:
+  - name: httpbin
+    version: "1.3"
+    repository: https://inseefrlab.github.io/helm-charts
